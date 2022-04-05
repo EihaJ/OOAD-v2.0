@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371103240372",
+    "project_id": "ooad-93565",
+    "storage_bucket": "ooad-93565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371103240372:android:a4f1b70ea7be4c4c1887e1",
+        "android_client_info": {
+          "package_name": "com.eihaj.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371103240372-5noh353hj9m83pkulubvkp5h4f461fol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJt08b3tfppYKuHuPYRiQT4CJVmqSJD5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371103240372-5noh353hj9m83pkulubvkp5h4f461fol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
